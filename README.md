@@ -1,5 +1,5 @@
-[![Build Status](https://img.shields.io/travis/embenzekri/cryptocurrency-exchange.svg?style=flat)](https://travis-ci.org/HyounesH/cryptocurrency-exchange)
-[![codecov](https://img.shields.io/codecov/c/github/embenzekri/cryptocurrency-exchange.svg?style=flat)](https://codecov.io/gh/HyounesH/cryptocurrency-exchange/branch/master)
+[![Build Status](https://img.shields.io/travis/HyounesH/cryptocurrency-exchange.svg?style=flat)](https://travis-ci.org/HyounesH/cryptocurrency-exchange)
+[![codecov](https://img.shields.io/codecov/c/github/HyounesH/cryptocurrency-exchange.svg?style=flat)](https://codecov.io/gh/HyounesH/cryptocurrency-exchange/branch/master)
 
 Cryptocurrency Exchange Test
 -----
